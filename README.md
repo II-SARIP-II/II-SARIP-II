@@ -16,7 +16,7 @@ Student at **42 School**. I focus on low-level programming with **C** and applic
   
 ### Contact & Links
 
-* [**LinkedIn:**](https://www.linkedin.com/in/p%C3%A2risgougne/)
+* **LinkedIn:** [Pâris](https://www.linkedin.com/in/p%C3%A2risgougne/)
 * **Email:** paris.gougne.05@gmail.com
 
 ---
