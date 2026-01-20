@@ -1,23 +1,26 @@
 # Pâris
 
-Student at **42 School**. I focus on low-level programming with **C** and application development with **Python** !
+Student at **42 School**. I focus on low-level programming with **C** and system automation with **Python**.\
+My interests lie at the intersection of systems programming, networking, and cybersecurity.
 
 ---
 
-### Technical Background
+### Technical Expertise
 
-* **Core Systems:** Deep understanding of memory management, algorithms, and Unix systems through the 42 Common Core (C language).
-* **Environment:** Linux, Shell (Zsh/Bash), Git, Vim.
+* **Systems Programming:** Advanced memory management, algorithm implementation, and Unix system architecture through the 42 Common Core curriculum (C).
+* **Automation & Scripting:** Developing efficient scripts and tools using Python.
+* **Infrastructure & Security:** Basic knowledge of network configuration (Cisco) and security auditing (Kali Linux).
+* **Environment:** Proficient with Linux, Shell (Zsh/Bash), Git, and Vim.
 
-### Current Projects
+### Current Focus
 
-* **42 Curriculum:** Advancing through the Common Core projects.
-* **Many side projects:** Like learning network and cybersecurity using Cisco and kali tools
-  
-### Contact & Links
+* **42 Curriculum:** Solving complex computational problems and building system-level software from scratch.
+* **Networking & Security:** Exploring network protocols and cybersecurity fundamentals through side projects and lab environments.
 
-* **LinkedIn:** [Pâris](https://www.linkedin.com/in/p%C3%A2risgougne/)
+### Contact Information
+
+* **LinkedIn:** [linkedin.com/in/pârisgougne](https://www.linkedin.com/in/p%C3%A2risgougne/)
 * **Email:** paris.gougne.05@gmail.com
 
 ---
-*Open to discussions for collaboration or anything*
+*Open to technical discussions, collaborative projects, or networking opportunities.*
