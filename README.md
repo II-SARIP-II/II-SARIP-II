@@ -7,7 +7,7 @@
 **Étudiant à 42**\
 ![Bas Niveau](https://img.shields.io/badge/Système_&_Bas_Niveau-C%20%2F%20Unix-00599C?style=flat-square)
 ![IA](https://img.shields.io/badge/Intelligence_Artificielle-LLM%20%2F%20RAG-3776AB?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Interface%20%2F%20Algo-3776AB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Interface%20%2F%20Algo-3706AB?style=flat-square)
 ![Web](https://img.shields.io/badge/Développement_Web-Fullstack%20%2F%203D-F7DF1E?style=flat-square&logoColor=black)
 
 ---
