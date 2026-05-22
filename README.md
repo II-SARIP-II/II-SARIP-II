@@ -1,29 +1,64 @@
-# Pâris Gougne
+# Pâris Gougne !
 
-Student at **42 School**. I focus on low-level programming with **C** and system automation with **Python**. My interests lie at the intersection of systems programming, networking, and cybersecurity.
+[![42 School](https://img.shields.io/badge/School-42-black?style=flat-square&logo=42)](https://42.fr/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p%C3%A2risgougne/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paris.gougne.05@gmail.com)
+
+Étudiant à **42**, je me passionne pour le **bas niveau**, le **système** et l'**Intelligence Artificielle**. Fort d'un passif en développement Web (MMI), je combine rigueur algorithmique et sens de l'interface.
+
+---
+
+### 🛠️ Stack Technique
+
+**Bas Niveau & Système**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**IA & Python**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-111111?style=for-the-badge)
+*Focus: RAG (Ollama/vLLM), Constrained Decoding (Qwen), Algorithmique Graphes.*
+
+**Web & Mobile (Expertise MMI)**
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ---
 
-### Technical Expertise
+### 🚀 Projets Phares
 
-* **Languages:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+#### 🧠 Intelligence Artificielle & Algorithmique
+*   **AI Integration (Qwen & vLLM):** Réalisation de **RAG** et de **Constrained Decoding** pour structurer les réponses de LLMs.
+*   **Labyrinthe & Graphes:** Générateur et solveur de labyrinthes avec rendu 2D (**MiniLibX**) et visualisation et résolution de graphes interactive (**Pygame**).
+*   **Pac-Man Procedural:** Clone de Pac-Man avec génération de map aléatoire et double moteur de rendu **2D et 3D**.
 
-* **Systems Programming:** Advanced memory management, algorithm implementation, and Unix system architecture through the 42 Common Core (C).
-* **Infrastructure & Security:** Basic knowledge of network configuration (Cisco) and security auditing using ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white).
-* **Environment:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+#### 💻 Programmation Système (C)
+*   **Codexion:** Multi-threading (threads, mutex, synchronisation).
+*   **ft_printf:** Recodage complet de la fonction printf de la libc.
+*   **get_next_line:** Lecture optimisée ligne par ligne via un descripteur de fichier.
 
-### Current Focus
-
-* **42 Curriculum:** Solving complex computational problems and building system-level software from scratch.
-* **Networking & Security:** Exploring network protocols and cybersecurity fundamentals through side projects and lab environments.
-
-### Contact Information
-
-* **LinkedIn:** [Pâris Gougne](https://www.linkedin.com/in/p%C3%A2risgougne/)
-* **Email:** paris.gougne.05@gmail.com
+#### 🌐 Web & Expériences
+*   **Applications Fullstack:** Développement de sites de rencontre, plateformes culinaires et intégration de scènes **3D (Three.js)**.
+*   **Frameworks:** Maîtrise de l'écosystème React, React Native, Vue et Laravel...
 
 ---
-*Open to technical discussions, collaborative projects, or networking opportunities.*
+
+### 📈 Mes Stats GitHub
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=II-SARIP-II&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=II-SARIP-II&show_icons=true&theme=radical)" alt="Stats de Pâris" />
+  <br>
+  <img src="```
+
+### https://github-readme-stats.vercel.app/api/top-langs/?username=II-SARIP-II&layout=compact&theme=radical"💡 Conseils pour personnaliser :
+1.  **Lien Stats :** Dans la section `Statistiques GitHub`, remplace `votre-pseudo-github alt="Langages les plus utilisés" />
+</p>
+
+---
+
+*N'hésitez pas à me contacter pour discuter technique, IA ou collaboration sur des` par ton véritable identifiant GitHub pour que les graphiques s'affichent.
+2.  **Badges :** J'ai ajouté des projets open-source !*
