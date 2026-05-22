@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p%C3%A2risgougne/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paris.gougne.05@gmail.com)
 
-**Étudiant à 42** 
+**Étudiant à 42**\
 ![Bas Niveau](https://img.shields.io/badge/Système_&_Bas_Niveau-C%20%2F%20Unix-00599C?style=flat-square)
 ![IA](https://img.shields.io/badge/Intelligence_Artificielle-LLM%20%2F%20RAG-3776AB?style=flat-square)
 ![Web](https://img.shields.io/badge/Développement_Web-Fullstack%20%2F%203D-F7DF1E?style=flat-square&logoColor=black)
