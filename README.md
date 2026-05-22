@@ -44,21 +44,3 @@
 #### 🌐 Web & Expériences
 *   **Applications Fullstack:** Développement de sites de rencontre, plateformes culinaires et intégration de scènes **3D (Three.js)**.
 *   **Frameworks:** Maîtrise de l'écosystème React, React Native, Vue et Laravel...
-
----
-
-### 📈 Mes Stats GitHub
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=II-SARIP-II&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=II-SARIP-II&show_icons=true&theme=radical)" alt="Stats de Pâris" />
-  <br>
-  <img src="```
-
-### https://github-readme-stats.vercel.app/api/top-langs/?username=II-SARIP-II&layout=compact&theme=radical"💡 Conseils pour personnaliser :
-1.  **Lien Stats :** Dans la section `Statistiques GitHub`, remplace `votre-pseudo-github alt="Langages les plus utilisés" />
-</p>
-
----
-
-*N'hésitez pas à me contacter pour discuter technique, IA ou collaboration sur des` par ton véritable identifiant GitHub pour que les graphiques s'affichent.
-2.  **Badges :** J'ai ajouté des projets open-source !*
