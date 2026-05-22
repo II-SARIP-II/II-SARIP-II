@@ -18,7 +18,9 @@
 **IA & Python**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-111111?style=for-the-badge)
-*Focus: RAG (Ollama/vLLM), Constrained Decoding (Qwen), Algorithmique Graphes.*
+![OLLAMA](https://img.shields.io/badge/Ollama-darkgrey)
+![vLLM](https://img.shields.io/badge/vLLM-purple)
+![Qwen](https://img.shields.io/badge/Qwen-red)
 
 **Web & Mobile (Expertise MMI)**
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
