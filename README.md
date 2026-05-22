@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p%C3%A2risgougne/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paris.gougne.05@gmail.com)
 
-Étudiant à **42**, je me passionne pour le **bas niveau**, le **système** et l'**Intelligence Artificielle**. Fort d'un passif en développement Web (MMI), je combine rigueur algorithmique et sens de l'interface.
+Étudiant à **42**, **bas niveau** | l'**Intelligence Artificielle** | **Developpement Web**
 
 ---
 
