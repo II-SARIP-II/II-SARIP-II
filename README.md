@@ -1,7 +1,13 @@
 ![42 banner](42banner.jpg)
 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/p%C3%A2risgougne/)
-[![Email](web.png)](https://xn--gougnepris-94a.fr/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/p%C3%A2risgougne/">
+    <img src="linkedin.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://xn--gougnepris-94a.fr/">
+    <img src="web.png" alt="Email" width="40" />
+  </a>
+</p>
 
 **Étudiant à 42**\
 ![Bas Niveau](https://img.shields.io/badge/Système_&_Bas_Niveau-C%20%2F%20Unix-00599C?style=flat-square)
