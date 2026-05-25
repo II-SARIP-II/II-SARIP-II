@@ -10,11 +10,9 @@
 </p>
 
 
-<img
-  src="https://terminal-identity-opal.vercel.app/api?name=II-SARIP-II&role=Developper%20engineer&tagline=Software%20Engineer%20|%20Algorithmic%20Optimization&theme=obsidian/graphite&avatar=42banner.jpg&pattern=grid&width=980&height=800"
-  width="100%"
-  alt="Terminal identity card"
-/>
+<a href="https://github.com/II-SARIP-II">
+  <img src="https://terminal-identity-opal.vercel.app/api?name=Pâris&username=II-SARIP-II&role=Computer+Science+Engineer&tagline=Making+heavy+code+run+light.+Because+life+is+too+short+for+slow+algorithms.&status=available+for+cool+internet+projects&command=contact+me&theme=amber%2Fcobalt&avatar=GG&pattern=grid&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&excludeLangs=java&langStyle=icons&iconSize=lg&motion=scan&contribTheme=constellation&contribMode=focus" width="100%" alt="Terminal identity card" />
+</a>
 
 
 **Étudiant à 42**\
