@@ -21,24 +21,28 @@
     <td width="30%"><strong>AI Integration (Qwen/vLLM)</strong></td>
     <td>Réalisation de <b>RAG</b> et de <b>Constrained Decoding</b> pour structurer et fiabiliser les réponses de LLMs.</td>
     <td width="25%">
-      <img src="https://img.shields.io/badge/vLLM-002B49?style=flat-square&logo=linux&logoColor=cyan" /><br>
-      <img src="https://img.shields.io/badge/Status-Stable-0052cc?style=flat-square" />
+      <img src="https://img.shields.io/badge/Call-Me-Maybe-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Note-123%25-0052cc?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/RAG-002B49?style=flat-square&logo=python&logoColor=cyan" />
+      <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><strong>Labyrinthes & Graphes</strong></td>
     <td>Générateur et solveur de labyrinthes (<b>MiniLibX</b>) et outil de visualisation interactive de graphes (<b>Pygame</b>).</td>
     <td>
-      <img src="https://img.shields.io/badge/Python-002B49?style=flat-square&logo=python&logoColor=cyan" /><br>
-      <img src="https://img.shields.io/badge/Status-90%25-0052cc?style=flat-square" />
+      <img src="https://img.shields.io/badge/A-Maz-Ing-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Note-111%25-0052cc?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Fly-In-002B49?style=flat-square&logo=linux&logoColor=cyan" />
+      <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><strong>Pac-Man Procedural</strong></td>
     <td>Clone de Pac-Man avec génération de map aléatoire et double moteur de rendu <b>2D et 3D</b>.</td>
     <td>
-      <img src="https://img.shields.io/badge/Pure_C-002B49?style=flat-square&logo=c&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Status-Optimized-0052cc?style=flat-square" />
+      <img src="https://img.shields.io/badge/Pac-Man-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -52,24 +56,24 @@
     <td width="30%"><strong>Codexion</strong></td>
     <td>Gestion stricte du multi-threading (threads, mutex, synchronisation) et isolation d'état.</td>
     <td width="25%">
-      <img src="https://img.shields.io/badge/System-C-002B49?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Threads-Active-0052cc?style=flat-square" />
+      <img src="https://img.shields.io/badge/Codexion-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Note-100%25-0052cc?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><strong>ft_printf</strong></td>
-    <td>Recodage complet de la fonction printf de la libc (variadiques, parsing, buffers).</td>
+    <td>Recodage complet de la fonction printf de la libc (parsing, buffers...).</td>
     <td>
-      <img src="https://img.shields.io/badge/Libc-C-002B49?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Success-100%25-0052cc?style=flat-square" />
+      <img src="https://img.shields.io/badge/ft_printf-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Note-105%25-0052cc?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><strong>get_next_line</strong></td>
     <td>Lecture optimisée ligne par ligne via un descripteur de fichier (FD) avec buffer dynamique.</td>
     <td>
-      <img src="https://img.shields.io/badge/Memory-C-002B49?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Success-100%25-0052cc?style=flat-square" />
+      <img src="https://img.shields.io/badge/get_next_line-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Note-112%25-0052cc?style=flat-square" />
     </td>
   </tr>
 </table>
