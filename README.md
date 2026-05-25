@@ -1,5 +1,7 @@
 # Pâris Gougne !
 
+![42 banner](42banner.jpg)
+
 [![42 School](https://img.shields.io/badge/School-42-black?style=flat-square&logo=42)](https://42.fr/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p%C3%A2risgougne/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paris.gougne.05@gmail.com)
