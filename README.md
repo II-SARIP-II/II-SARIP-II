@@ -14,16 +14,31 @@
 
 ## Projets Phares
 
+Pour chaque projet, tu retrouveras les technos majeures utilisées et les problématiques centrales résolues.
+
 ### Intelligence Artificielle & Algorithmique
-*   **AI Integration (Qwen & vLLM):** Réalisation de **RAG** et de **Constrained Decoding** pour structurer les réponses de LLMs.
-*   **Labyrinthe & Graphes:** Générateur et solveur de labyrinthes avec rendu 2D (**MiniLibX**) et visualisation et résolution de graphes interactive (**Pygame**).
-*   **Pac-Man Procedural:** Clone de Pac-Man avec génération de map aléatoire et double moteur de rendu **2D et 3D**.
+
+| Projet | Description | Technologies / Focus |
+| :--- | :--- | :--- |
+| **AI Integration** | Réalisation de **RAG** et de **Constrained Decoding** pour structurer et fiabiliser les réponses des LLMs. | ![vLLM](https://img.shields.io/badge/vLLM-0052CC?style=flat-square&logo=linux&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-007ACC?style=flat-square) <br> `LLM` `RAG` `JSON-Schema` |
+| **Labyrinthe & Graphes** | Générateur/solveur de labyrinthes et outil de visualisation/résolution de graphes interactive. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-003366?style=flat-square) <br> `MiniLibX 2D` `Graph-Theory` |
+| **Pac-Man Procedural** | Clone du jeu culte avec génération de map aléatoire et double moteur de rendu. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-002B49?style=flat-square) <br> `Procedural` `2D / 3D Engine` |
+
+---
 
 ### Programmation Système (C)
-*   **Codexion:** Multi-threading (threads, mutex, synchronisation).
-*   **ft_printf:** Recodage complet de la fonction printf de la libc.
-*   **get_next_line:** Lecture optimisée ligne par ligne via un descripteur de fichier.
 
-### Web & Expériences
-*   **Applications Fullstack:** Développement de sites de rencontre, plateformes culinaires et intégration de scènes **3D (Three.js)**.
-*   **Frameworks:** Maîtrise de l'écosystème React, React Native, Vue et Laravel...
+| Projet | Enjeu Technique | Focus Système |
+| :--- | :--- | :--- |
+| **Codexion** | Gestion stricte de la concurrence, de l'isolation d'état et de la mémoire. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> `Threads` `Mutexes` `Synchronization` |
+| **ft_printf** | Recodage complet de la fonction de la `libc`. Gestion des variadiques et du parsing. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> `Variadic-Functions` `Buffer-Management` |
+| **get_next_line** | Lecture optimisée ligne par ligne via un descripteur de fichier avec buffer dynamique. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> `File-Descriptors` `Memory-Allocation` |
+
+---
+
+### Web & Expériences Numériques
+
+| Projet / Écosystème | Réalisations | Stack Technique |
+| :--- | :--- | :--- |
+| **Applications Fullstack** | Plateformes de rencontre, sites culinaires et intégration d'expériences immersives en ligne. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> `Three.js 3D` `Fullstack` |
+| **Frameworks Maîtrisés** | Création d'architectures web et mobiles robustes, scalables et centrées sur l'utilisateur. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) <br> `React Native` `Next.js` `Symfony` |
