@@ -11,7 +11,7 @@
 
 
 <img
-  src="https://terminal-identity-opal.vercel.app/api?name=ggam&role=Developper%20engineer&tagline=Software%20Engineer%20|%20Algorithmic%20Optimization&theme=obsidian/graphite&avatar=GG&pattern=grid&width=980&height=420"
+  src="https://terminal-identity-opal.vercel.app/api?name=II-SARIP-II&role=Developper%20engineer&tagline=Software%20Engineer%20|%20Algorithmic%20Optimization&theme=obsidian/graphite&avatar=42banner.jpg&pattern=grid&width=980&height=420"
   width="100%"
   alt="Terminal identity card"
 />
