@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/p%C3%A2risgougne/">
-    <img src="linkedin.png" alt="LinkedIn" width="40" />
+    <img src="linkedin.png" alt="LinkedIn" width="100" />
   </a>
   <a href="https://xn--gougnepris-94a.fr/">
-    <img src="web.png" alt="Email" width="40" />
+    <img src="web.png" alt="Email" width="100" />
   </a>
 </p>
 
