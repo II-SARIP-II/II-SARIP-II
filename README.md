@@ -1,7 +1,7 @@
 ![42 banner](42banner.jpg)
 
 <a href="https://github.com/II-SARIP-II">
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Pâris&username=II-SARIP-II&role=Computer+Science+Engineer&tagline=Making+heavy+code+run+light.+Because+life+is+too+short+for+slow+algorithms.&status=available+for+cool+internet+projects&command=contact+me&theme=amber%2Fcobalt&avatar=GG&pattern=grid&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&excludeLangs=java&langStyle=icons&iconSize=lg&motion=scan&contribTheme=constellation&contribMode=focus" width="100%" alt="Terminal identity card" />
+  <img src="https://terminal-identity-opal.vercel.app/api?name=Pâris&username=II-SARIP-II&role=Computer+Science+Engineer&tagline=Making+heavy+code+run+light.+Because+life+is+too+short+for+slow+algorithms.&status=available+for+cool+internet+projects&command=contact+me&theme=amber%2Fcobalt&avatar=GG&pattern=grid&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&excludeLangs=java&langStyle=icons&iconSize=lg&motion=scan&contribTheme=constellation&contribMode=focus&bio=•+42+student%0A•+Bachelor’s+Degree+in+Web+Development%0A‎+%0AAI%3A%0A-+Constrain+decoding%0A-+RAG%0A‎+%0AAlgorithm%3A%0A-+Maze+generation%2Fresolution%0A-+Multi-agent+Graphs+pathfinding%0A-+Heap+sorting+%28radix%2C+chunk+base...%29%0A‎+%0AMultithreading%3A%0A-+Shared+State+Isolation%0A-+Immutability%0A-+Synchronization+%2F+Locking%0A-+Atomic+Operations" width="100%" alt="Terminal identity card" />
 </a>
 
 <p align="center">
