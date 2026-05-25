@@ -1,5 +1,9 @@
 ![42 banner](42banner.jpg)
 
+<a href="https://github.com/II-SARIP-II">
+  <img src="https://terminal-identity-opal.vercel.app/api?name=Pâris&username=II-SARIP-II&role=Computer+Science+Engineer&tagline=Making+heavy+code+run+light.+Because+life+is+too+short+for+slow+algorithms.&status=available+for+cool+internet+projects&command=contact+me&theme=amber%2Fcobalt&avatar=GG&pattern=grid&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&excludeLangs=java&langStyle=icons&iconSize=lg&motion=scan&contribTheme=constellation&contribMode=focus" width="100%" alt="Terminal identity card" />
+</a>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/p%C3%A2risgougne/">
     <img src="linkedin.png" alt="LinkedIn" width="100" />
@@ -9,12 +13,6 @@
   </a>
 </p>
 
-
-<a href="https://github.com/II-SARIP-II">
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Pâris&username=II-SARIP-II&role=Computer+Science+Engineer&tagline=Making+heavy+code+run+light.+Because+life+is+too+short+for+slow+algorithms.&status=available+for+cool+internet+projects&command=contact+me&theme=amber%2Fcobalt&avatar=GG&pattern=grid&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&excludeLangs=java&langStyle=icons&iconSize=lg&motion=scan&contribTheme=constellation&contribMode=focus" width="100%" alt="Terminal identity card" />
-</a>
-
-
 **Étudiant à 42**\
 ![Bas Niveau](https://img.shields.io/badge/Système_&_Bas_Niveau-C%20%2F%20Unix-00599C?style=flat-square)
 ![IA](https://img.shields.io/badge/Intelligence_Artificielle-LLM%20%2F%20RAG-3776AB?style=flat-square)
@@ -23,7 +21,7 @@
 
 ---
 
-### 🛠️ Stack Technique
+### Stack Technique
 
 **Bas Niveau & Système**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
