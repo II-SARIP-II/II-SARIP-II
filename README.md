@@ -21,7 +21,7 @@
     <td width="30%"><strong>AI Integration (Qwen/vLLM)</strong></td>
     <td>Réalisation de <b>RAG</b> et de <b>Constrained Decoding</b> pour structurer et fiabiliser les réponses de LLMs.</td>
     <td width="25%">
-      <img src="https://img.shields.io/badge/Call-Me-Maybe-002B49?style=flat-square&logo=python&logoColor=cyan" />
+      <img src="https://img.shields.io/badge/Call_Me_Maybe-002B49?style=flat-square&logo=python&logoColor=cyan" />
       <img src="https://img.shields.io/badge/Note-123%25-0052cc?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/RAG-002B49?style=flat-square&logo=python&logoColor=cyan" />
       <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
@@ -31,9 +31,9 @@
     <td><strong>Labyrinthes & Graphes</strong></td>
     <td>Générateur et solveur de labyrinthes (<b>MiniLibX</b>) et outil de visualisation interactive de graphes (<b>Pygame</b>).</td>
     <td>
-      <img src="https://img.shields.io/badge/A-Maz-Ing-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/A_Maz_Ing-002B49?style=flat-square&logo=python&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-111%25-0052cc?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Fly-In-002B49?style=flat-square&logo=linux&logoColor=cyan" />
+      <img src="https://img.shields.io/badge/Fly_In-002B49?style=flat-square&logo=linux&logoColor=cyan" />
       <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
     </td>
   </tr>
