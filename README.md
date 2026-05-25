@@ -14,31 +14,85 @@
 
 ## Projets Phares
 
-Pour chaque projet, tu retrouveras les technos majeures utilisées et les problématiques centrales résolues.
-
 ### Intelligence Artificielle & Algorithmique
 
-| Projet | Description | Technologies / Focus |
-| :--- | :--- | :--- |
-| **AI Integration** | Réalisation de **RAG** et de **Constrained Decoding** pour structurer et fiabiliser les réponses des LLMs. | ![vLLM](https://img.shields.io/badge/vLLM-0052CC?style=flat-square&logo=linux&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-007ACC?style=flat-square) <br> `LLM` `RAG` `JSON-Schema` |
-| **Labyrinthe & Graphes** | Générateur/solveur de labyrinthes et outil de visualisation/résolution de graphes interactive. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-003366?style=flat-square) <br> `MiniLibX 2D` `Graph-Theory` |
-| **Pac-Man Procedural** | Clone du jeu culte avec génération de map aléatoire et double moteur de rendu. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-002B49?style=flat-square) <br> `Procedural` `2D / 3D Engine` |
+<table>
+  <tr>
+    <td width="30%"><strong>AI Integration (Qwen/vLLM)</strong></td>
+    <td>Réalisation de <b>RAG</b> et de <b>Constrained Decoding</b> pour structurer et fiabiliser les réponses de LLMs.</td>
+    <td width="25%">
+      <img src="https://img.shields.io/badge/vLLM-002B49?style=flat-square&logo=linux&logoColor=cyan" /><br>
+      <img src="https://img.shields.io/badge/Status-Stable-0052cc?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Labyrinthes & Graphes</strong></td>
+    <td>Générateur et solveur de labyrinthes (<b>MiniLibX</b>) et outil de visualisation interactive de graphes (<b>Pygame</b>).</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-002B49?style=flat-square&logo=python&logoColor=cyan" /><br>
+      <img src="https://img.shields.io/badge/Status-90%25-0052cc?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Pac-Man Procedural</strong></td>
+    <td>Clone de Pac-Man avec génération de map aléatoire et double moteur de rendu <b>2D et 3D</b>.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Pure_C-002B49?style=flat-square&logo=c&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Status-Optimized-0052cc?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Programmation Système (C)
 
-| Projet | Enjeu Technique | Focus Système |
-| :--- | :--- | :--- |
-| **Codexion** | Gestion stricte de la concurrence, de l'isolation d'état et de la mémoire. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> `Threads` `Mutexes` `Synchronization` |
-| **ft_printf** | Recodage complet de la fonction de la `libc`. Gestion des variadiques et du parsing. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> `Variadic-Functions` `Buffer-Management` |
-| **get_next_line** | Lecture optimisée ligne par ligne via un descripteur de fichier avec buffer dynamique. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> `File-Descriptors` `Memory-Allocation` |
+<table>
+  <tr>
+    <td width="30%"><strong>Codexion</strong></td>
+    <td>Gestion stricte du multi-threading (threads, mutex, synchronisation) et isolation d'état.</td>
+    <td width="25%">
+      <img src="https://img.shields.io/badge/System-C-002B49?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Threads-Active-0052cc?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ft_printf</strong></td>
+    <td>Recodage complet de la fonction printf de la libc (variadiques, parsing, buffers).</td>
+    <td>
+      <img src="https://img.shields.io/badge/Libc-C-002B49?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Success-100%25-0052cc?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>get_next_line</strong></td>
+    <td>Lecture optimisée ligne par ligne via un descripteur de fichier (FD) avec buffer dynamique.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Memory-C-002B49?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Success-100%25-0052cc?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Web & Expériences Numériques
 
-| Projet / Écosystème | Réalisations | Stack Technique |
-| :--- | :--- | :--- |
-| **Applications Fullstack** | Plateformes de rencontre, sites culinaires et intégration d'expériences immersives en ligne. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> `Three.js 3D` `Fullstack` |
-| **Frameworks Maîtrisés** | Création d'architectures web et mobiles robustes, scalables et centrées sur l'utilisateur. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) <br> `React Native` `Next.js` `Symfony` |
+<table>
+  <tr>
+    <td width="30%"><strong>Applications Fullstack</strong></td>
+    <td>Développement de sites de rencontre, plateformes culinaires et intégration de scènes <b>3D (Three.js)</b>.</td>
+    <td width="25%">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" /><br>
+      <img src="https://img.shields.io/badge/Laravel-002B49?style=flat-square&logo=laravel" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Écosystème JS & PHP</strong></td>
+    <td>Maîtrise complète et conception d'architectures sous React, React Native, Vue, Next et Symfony.</td>
+    <td>
+      <img src="https://img.shields.io/badge/React_/_Vue-002B49?style=flat-square&logo=react" /><br>
+      <img src="https://img.shields.io/badge/Fullstack-Pro-0052cc?style=flat-square" />
+    </td>
+  </tr>
+</table>
