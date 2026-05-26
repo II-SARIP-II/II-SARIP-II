@@ -34,7 +34,7 @@
     <td>
       <img src="https://img.shields.io/badge/A_Maz_Ing-002B49?style=flat-square&logo=python&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-111%25-0052cc?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Fly_In-002B49?style=flat-square&logo=linux&logoColor=cyan" />
+      <img src="https://img.shields.io/badge/Fly_In-002B49?style=flat-square&logo=python&logoColor=cyan" />
       <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
     </td>
   </tr>
@@ -42,7 +42,7 @@
     <td><strong>Pac-Man Procedural</strong></td>
     <td>Clone de Pac-Man avec génération de map aléatoire et double moteur de rendu <b>2D et 3D</b>.</td>
     <td>
-      <img src="https://img.shields.io/badge/Pac-Man-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Pac_Man-002B49?style=flat-square&logo=python&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
     </td>
   </tr>
@@ -57,7 +57,7 @@
     <td width="30%"><strong>Codexion</strong></td>
     <td>Gestion stricte du multi-threading (threads, mutex, synchronisation) et isolation d'état.</td>
     <td width="25%">
-      <img src="https://img.shields.io/badge/Codexion-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/Codexion-002B49?style=flat-square&logo=c&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-100%25-0052cc?style=flat-square" />
     </td>
   </tr>
