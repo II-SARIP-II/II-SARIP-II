@@ -65,7 +65,7 @@
     <td><strong>ft_printf</strong></td>
     <td>Recodage complet de la fonction printf de la libc (parsing, buffers...).</td>
     <td>
-      <img src="https://img.shields.io/badge/ft_printf-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/ft_printf-002B49?style=flat-square&logo=c&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-105%25-0052cc?style=flat-square" />
     </td>
   </tr>
@@ -73,7 +73,7 @@
     <td><strong>get_next_line</strong></td>
     <td>Lecture optimisée ligne par ligne via un descripteur de fichier (FD) avec buffer dynamique.</td>
     <td>
-      <img src="https://img.shields.io/badge/get_next_line-002B49?style=flat-square&logo=python&logoColor=green" />
+      <img src="https://img.shields.io/badge/get_next_line-002B49?style=flat-square&logo=c&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-112%25-0052cc?style=flat-square" />
     </td>
   </tr>
