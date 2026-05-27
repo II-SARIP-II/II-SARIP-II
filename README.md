@@ -13,14 +13,14 @@
 
 ---
 
-## Projets Phares
+## Flagship Projects
 
-### Intelligence Artificielle & Algorithmique
+### Artificial Intelligence & Algorithms
 
 <table>
   <tr>
     <td width="30%"><strong>AI Integration (Qwen/vLLM)</strong></td>
-    <td>Réalisation de <b>RAG</b> et de <b>Constrained Decoding</b> pour structurer et fiabiliser les réponses de LLMs.</td>
+    <td>Implementation of <b>RAG</b> and <b>Constrained Decoding</b> to structure and improve the reliability of LLM responses.</td>
     <td width="25%">
       <img src="https://img.shields.io/badge/Call_Me_Maybe-002B49?style=flat-square&logo=python&logoColor=cyan" />
       <img src="https://img.shields.io/badge/Note-123%25-0052cc?style=flat-square" /><br>
@@ -29,8 +29,8 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Labyrinthes & Graphes</strong></td>
-    <td>Générateur et solveur de labyrinthes (<b>MiniLibX</b>) et outil de visualisation interactive de graphes (<b>Pygame</b>).</td>
+    <td><strong>Labyrinths & Graphs</strong></td>
+    <td>Maze generator and solver (<b>MiniLibX</b>) and interactive graph visualization tool (<b>Pygame</b>).</td>
     <td>
       <img src="https://img.shields.io/badge/A_Maz_Ing-002B49?style=flat-square&logo=python&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-111%25-0052cc?style=flat-square" /><br>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><strong>Pac-Man Procedural</strong></td>
-    <td>Clone de Pac-Man avec génération de map aléatoire et double moteur de rendu <b>2D et 3D</b>.</td>
+    <td>Pac-Man clone with random map generation and dual <b>2D</b>b> and <b>3D</b>b> rendering engine.</td>
     <td>
       <img src="https://img.shields.io/badge/Pac_Man-002B49?style=flat-square&logo=python&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-125%25-0052cc?style=flat-square" />
@@ -50,12 +50,12 @@
 
 ---
 
-### Programmation Système (C)
+### System Programming (C)
 
 <table>
   <tr>
     <td width="30%"><strong>Codexion</strong></td>
-    <td>Gestion stricte du multi-threading (threads, mutex, synchronisation) et isolation d'état.</td>
+    <td>Strict management of multi-threading (threads, mutexes, synchronization) and state isolation.</td>
     <td width="25%">
       <img src="https://img.shields.io/badge/Codexion-002B49?style=flat-square&logo=c&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-100%25-0052cc?style=flat-square" />
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td><strong>ft_printf</strong></td>
-    <td>Recodage complet de la fonction printf de la libc (parsing, buffers...).</td>
+    <td>Complete recoding of the libc printf function (parsing, buffers...).</td>
     <td>
       <img src="https://img.shields.io/badge/ft_printf-002B49?style=flat-square&logo=c&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-105%25-0052cc?style=flat-square" />
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td><strong>get_next_line</strong></td>
-    <td>Lecture optimisée ligne par ligne via un descripteur de fichier (FD) avec buffer dynamique.</td>
+    <td>Optimized line-by-line reading via a file descriptor (FD) with dynamic buffering.</td>
     <td>
       <img src="https://img.shields.io/badge/get_next_line-002B49?style=flat-square&logo=c&logoColor=green" />
       <img src="https://img.shields.io/badge/Note-112%25-0052cc?style=flat-square" />
@@ -81,20 +81,20 @@
 
 ---
 
-### Web & Expériences Numériques
+### Web & Digital Experiences
 
 <table>
   <tr>
-    <td width="30%"><strong>Applications Fullstack</strong></td>
-    <td>Développement de sites de rencontre, plateformes culinaires et intégration de scènes <b>3D (Three.js)</b>.</td>
+    <td width="30%"><strong>Fullstack Applications</strong></td>
+    <td>Development of dating sites, culinary platforms and integration of <b>3D scenes (Three.js)</b>.</td>
     <td width="25%">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" /><br>
       <img src="https://img.shields.io/badge/Laravel-002B49?style=flat-square&logo=laravel" />
     </td>
   </tr>
   <tr>
-    <td><strong>Écosystème JS & PHP</strong></td>
-    <td>Maîtrise complète et conception d'architectures sous React, React Native, Vue, Next et Symfony.</td>
+    <td><strong>JS & PHP Ecosystem</strong></td>
+    <td>Complete mastery and design of architectures using React, React Native, Vue, Next and Symfony.</td>
     <td>
       <img src="https://img.shields.io/badge/React_/_Vue-002B49?style=flat-square&logo=react" /><br>
       <img src="https://img.shields.io/badge/Fullstack-Pro-0052cc?style=flat-square" />
